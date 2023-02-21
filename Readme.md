@@ -10,7 +10,7 @@
 - Services Section
 - Contact Section
 
-* [X]The Hero Section
+* [x] The Hero Section
 
 Comprise of a sneak peek into who I am
 
